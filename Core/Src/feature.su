@@ -1,0 +1,6 @@
+../Core/Src/feature.c:26:6:my_Low_Power_Alert	16	static
+../Core/Src/feature.c:36:6:Display_PID	56	static
+../Core/Src/feature.c:70:6:Display_Battery	32	static
+../Core/Src/feature.c:108:6:Display_Frame	16	static
+../Core/Src/feature.c:117:6:Display_Logo	16	static
+../Core/Src/feature.c:124:6:Display_Bluetooth_status	24	static
